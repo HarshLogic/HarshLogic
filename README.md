@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Dev, Machine Learing**
 
-- 💬 Ask me about **I'm a graphic and website designer who genuinely loves bringing beautiful, functional digital ideas to life. My background in HTML, CSS, JavaScript, Java, and C helps me bridge the gap between creative vision and solid code. Right now, I'm really digging into full-stack web development and exploring the exciting world of machine learning. Plus, I'm constantly sharpening my problem-solving edge with Data Structures and Algorithms in Java, all while making sure everything I build performs perfectly through rigorous testing.**
+- 💬 Ask me about **I'm a graphic and Full Stack Java Developer who genuinely loves bringing beautiful, functional digital ideas to life. My background in JavaScript, React, Java, and Python, and in Spring boot helps me bridge the gap between creative vision and solid code. Right now, I'm really digging into full-stack web development and exploring the exciting world of machine learning. Plus, I'm constantly sharpening my problem-solving edge with Data Structures and Algorithms in Java, all while making sure everything I build performs perfectly through rigorous testing.**
 
 - 📫 How to reach me **harshvardhansinha17@gmail.com**
 
