@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-Graphic Designer & MERN Stack Developer ><br>I bridge the gap between creative design and scalable code. Specializing in the MERN Stack and Docker, I build functional, containerized applications with a focus on performance and UI/UX. Currently exploring Machine Learning and sharpening my problem-solving edge through DSA.
+🚀 Software Engineer & Tech Lead specializing in MERN Stack, Java (DSA), and AI/ML.<br>🏆 Love open-source | GSSoC ’26 Project Leader!<br>🧠 Passionate about transforming complex engineering challenges into secure, scalable full-stack solutions.
 
 
 ## 🌐 Socials:
