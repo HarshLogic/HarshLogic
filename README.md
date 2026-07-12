@@ -4,6 +4,9 @@
 # 💫 About Me:
 🚀 Software Engineer & Tech Lead specializing in MERN Stack, Java (DSA), and AI/ML.<br>🏆 Love open-source | GSSoC ’26 Project Leader!<br>🧠 Passionate about transforming complex engineering challenges into secure, scalable full-stack solutions.
 
+<div align="center">
+  <img src="https://asciify.its-apoorv.me/api/card?username=HarshLogic&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="asciify card" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshlogic/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32280769/harshvardan-sinha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshvardhansinha17@gmail.com) 
