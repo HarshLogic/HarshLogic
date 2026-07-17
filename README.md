@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Sinha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 # 💫 About Me:
 🚀 Software Engineer & Tech Lead specializing in MERN Stack, Java (DSA), and AI/ML.<br>🏆 Love open-source | GSSoC ’26 Project Leader!<br>🧠 Passionate about transforming complex engineering challenges into secure, scalable full-stack solutions.
